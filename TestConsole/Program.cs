@@ -15,6 +15,9 @@ namespace TestConsole
 
         static void featureOne ()
         {
+            int firstVar;
+            int secondVar;
+            int thirdVar;
             Console.WriteLine("This is just the feature one");
         }
     }
