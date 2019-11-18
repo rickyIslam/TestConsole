@@ -15,7 +15,7 @@ namespace TestConsole
 
         static void featureOne ()
         {
-            Console.WriteLine("This is just feature one");
+            Console.WriteLine("This is just the feature one");
         }
     }
 }
